@@ -20,7 +20,9 @@
       "supportsTablet": true
     },
     "android":{
-      "useNextNotificationsApi": true,
+      "package": "com.rafalpilawka.waterdrink",
+      "versionCode": 1,
+      "useNextNotificationsApi": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
